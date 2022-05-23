@@ -1,2 +1,2 @@
 # PythonGames
- Games em Python com Tkinter
+ Games em Python com GUI
